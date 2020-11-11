@@ -6,6 +6,6 @@ Unfortunately the folium maps do not seem to render on GitHub natively so I will
 
 The map groups the incidents in neighbourhoods. The groups expand as we zoom in.
 
-![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/master/incident.png?raw=true)
-![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/master/incident2.png?raw=true)
-![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/master/incident3.png?raw=true)
+![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/main/incident.png?raw=true)
+![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/mainr/incident2.png?raw=true)
+![alt text](https://github.com/nathankouts/san_francisco_crime_map/blob/main/incident3.png?raw=true)
